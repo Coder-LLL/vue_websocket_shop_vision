@@ -1,6 +1,6 @@
 # vision
 ## 这个项目总共包含两个部分，这个是前端部分，基础vue的vuecli3
-## 后端部分的地址：https://github.com/lzhljy520/vue_websocket_shop_server 
+## 后端部分的地址：https://github.com/Coder-LLL/vue_websocket_shop_server 
 ## 项目运行的时候先运行后台部分
 ## Project setup
 ```
